@@ -1,4 +1,5 @@
 # oden-console
+[TNTOS](https://github.com/TNTSuperMan/TNTOS)のoden上で動くターミナルアプリみたいなのです
 
 To install dependencies:
 
