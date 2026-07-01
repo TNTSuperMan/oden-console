@@ -1,0 +1,1 @@
+Bun.write("dist/index.js",require("@babel/core").transform(await(await Bun.build({entrypoints:["src"],external:["oden"]})).outputs[0].text(),{presets:["@babel/preset-env"]}).code)
